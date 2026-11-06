@@ -1,0 +1,6 @@
+fastapi[standard]
+groq
+sentence-transformers
+faiss-cpu
+pandas
+python-dotenv

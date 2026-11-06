@@ -1,0 +1,4 @@
+system,total_evaluated,valid_count,valid_pct,abstention_count,abstention_pct,error_count,error_pct,mean_normalized_em,mean_token_precision,mean_token_recall,mean_token_f1,mean_semantic_similarity
+System A (Baseline LLM),5,5,100.0,0,0.0,0,0.0,0.0,0.0733,0.3,0.1143,0.3378
+System B (Naive RAG),5,5,100.0,0,0.0,0,0.0,0.0,0.1578,1.0,0.2665,0.5502
+System C (Advanced RAG),5,5,100.0,0,0.0,0,0.0,0.4,0.5194,0.9333,0.5904,0.7562
